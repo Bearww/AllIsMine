@@ -1,9 +1,21 @@
 fileFormatVersion: 2
 guid: fe83416f5fff1de46930fdf82e5318bd
-timeCreated: 1462799932
+timeCreated: 1464278993
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: "\u9053\u5177 \u56DB\u5143\u7D20-06_0"
+    21300002: "\u9053\u5177 \u56DB\u5143\u7D20-06_1"
+    21300004: "\u9053\u5177 \u56DB\u5143\u7D20-06_3"
+    21300006: "\u9053\u5177 \u56DB\u5143\u7D20-06_4"
+    21300008: "\u9053\u5177 \u56DB\u5143\u7D20-06_5"
+    21300010: "\u9053\u5177 \u56DB\u5143\u7D20-06_6"
+    21300012: "\u9053\u5177 \u56DB\u5143\u7D20-06_8"
+    21300014: "\u9053\u5177 \u56DB\u5143\u7D20-06_9"
+    21300016: "\u9053\u5177 \u56DB\u5143\u7D20-06_10"
+    21300018: "\u9053\u5177 \u56DB\u5143\u7D20-06_12"
+    21300020: "\u9053\u5177 \u56DB\u5143\u7D20-06_13"
+    21300022: "\u9053\u5177 \u56DB\u5143\u7D20-06_14"
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +42,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +50,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +61,293 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 438
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 60}
+        - {x: -10, y: 60}
+        - {x: -14, y: 50}
+        - {x: -28, y: 32}
+        - {x: -39, y: 17}
+        - {x: -39, y: -21}
+        - {x: -23, y: -45}
+        - {x: 15, y: -45}
+        - {x: 36, y: -36}
+        - {x: 36, y: 53}
+        - {x: 35, y: 57}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_1"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -24}
+        - {x: -10, y: -30}
+        - {x: -5, y: -34}
+        - {x: 2, y: -34}
+        - {x: 7, y: -27}
+        - {x: 5, y: -19}
+        - {x: 2, y: -12}
+        - {x: 15, y: -24}
+        - {x: 31, y: -34}
+        - {x: 53, y: 2}
+        - {x: 53, y: 36}
+        - {x: 28, y: 56}
+        - {x: -12, y: 56}
+        - {x: -46, y: 33}
+        - {x: -46, y: -4}
+        - {x: -40, y: -14}
+        - {x: -31, y: -10}
+        - {x: -28, y: -10}
+        - {x: -30, y: -10}
+        - {x: -37, y: -16}
+        - {x: -37, y: -26}
+        - {x: -23, y: -40}
+        - {x: -15, y: -40}
+        - {x: -10, y: -30}
+        - {x: -17, y: -25}
+        - {x: -19, y: -25}
+      - - {x: 28, y: -35}
+        - {x: 30, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -38}
+        - {x: 42, y: -27}
+        - {x: 41, y: -23}
+        - {x: 33, y: -23}
+        - {x: 28, y: -29}
+      - - {x: 6, y: -36}
+        - {x: 8, y: -38}
+        - {x: 17, y: -38}
+        - {x: 19, y: -37}
+        - {x: 19, y: -28}
+        - {x: 16, y: -23}
+        - {x: 13, y: -23}
+        - {x: 6, y: -25}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_3"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 447
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 64}
+        - {x: -31, y: 43}
+        - {x: -31, y: -62}
+        - {x: 38, y: -62}
+        - {x: 39, y: -36}
+        - {x: 39, y: 64}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_4"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 448
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 42}
+        - {x: -19, y: 42}
+        - {x: -56, y: 21}
+        - {x: -56, y: -2}
+        - {x: -40, y: -31}
+        - {x: 36, y: -31}
+        - {x: 50, y: -3}
+        - {x: 50, y: 18}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -22}
+        - {x: 35, y: -22}
+        - {x: 45, y: -21}
+        - {x: 53, y: -25}
+        - {x: 67, y: -21}
+        - {x: 67, y: -1}
+        - {x: 57, y: 10}
+        - {x: 49, y: 12}
+        - {x: 43, y: 12}
+        - {x: 39, y: 8}
+        - {x: 39, y: 12}
+        - {x: 45, y: 12}
+        - {x: 48, y: 13}
+        - {x: 56, y: 19}
+        - {x: 54, y: 50}
+        - {x: 31, y: 61}
+        - {x: -47, y: 61}
+        - {x: -55, y: 57}
+        - {x: -55, y: -41}
+        - {x: -47, y: -61}
+        - {x: 53, y: -61}
+        - {x: 57, y: -52}
+        - {x: 59, y: -46}
+        - {x: 57, y: -31}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_6"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 275
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 63}
+        - {x: -6, y: 63}
+        - {x: -48, y: 8}
+        - {x: -48, y: -29}
+        - {x: -43, y: -40}
+        - {x: -34, y: -60}
+        - {x: 28, y: -60}
+        - {x: 40, y: -28}
+        - {x: 40, y: 3}
+        - {x: 8, y: 61}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_8"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 265
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 52}
+        - {x: -28, y: 52}
+        - {x: -71, y: 48}
+        - {x: -72, y: 47}
+        - {x: -72, y: 2}
+        - {x: -9, y: -44}
+        - {x: 73, y: -44}
+        - {x: 73, y: 2}
+        - {x: 47, y: 20}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_9"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 275
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 69}
+        - {x: -12, y: 69}
+        - {x: -30, y: 56}
+        - {x: -30, y: 26}
+        - {x: -8, y: -68}
+        - {x: 10, y: -68}
+        - {x: 32, y: 16}
+        - {x: 32, y: 46}
+        - {x: 19, y: 68}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 42}
+        - {x: -40, y: 41}
+        - {x: -40, y: -14}
+        - {x: -33, y: -46}
+        - {x: -32, y: -48}
+        - {x: 14, y: -48}
+        - {x: 20, y: -47}
+        - {x: 24, y: 12}
+        - {x: 24, y: 40}
+        - {x: 23, y: 42}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_12"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 45}
+        - {x: -27, y: 35}
+        - {x: -18, y: 19}
+        - {x: -13, y: 10}
+        - {x: -31, y: 3}
+        - {x: -31, y: -25}
+        - {x: -25, y: -52}
+        - {x: 27, y: -52}
+        - {x: 32, y: -24}
+        - {x: 32, y: 45}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_13"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 43}
+        - {x: -53, y: 10}
+        - {x: -53, y: -49}
+        - {x: -42, y: -54}
+        - {x: 43, y: -54}
+        - {x: 45, y: -53}
+        - {x: 45, y: -20}
+        - {x: 27, y: 43}
+    - name: "\u9053\u5177 \u56DB\u5143\u7D20-06_14"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 37
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 40}
+        - {x: -68, y: 33}
+        - {x: -68, y: -4}
+        - {x: -38, y: -51}
+        - {x: 49, y: -51}
+        - {x: 49, y: 31}
+        - {x: 37, y: 40}
     outline: []
   spritePackingTag: 
   userData: 
