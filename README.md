@@ -1,4 +1,5 @@
 # AllIsMine
+摧毀各式建築蒐集珍貴資源，建立屬於個人的夢想城堡吧！
 
 ## 挑戰各式遊戲關卡
 ![image](https://github.com/Bearww/AllIsMine/blob/Design/menu.gif)
